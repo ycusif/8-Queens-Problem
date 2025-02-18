@@ -66,6 +66,4 @@ Each algorithm has strengths and weaknesses. **Uninformed searches** like BFS/DF
 🔹 **For exact solutions** → Use BFS, DFS, IDS, or Bidirectional Backtracking.  
 🔹 **For heuristic-based solutions** → Use Best-First Search, Hill Climbing, or Genetic Algorithms.  
 
----
-
-📌 **Next Step:** Upload this file to your **Docs** folder, and then we move on to the next documentation file! 🚀🔥  
+--
