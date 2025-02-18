@@ -60,7 +60,6 @@ Q . . . . . . .
 Example solution for the 8-Queens Problem:
 
 ![8-Queens Solution]([https://l1nk.dev/3E5bO)
-Example of one of the algorithms in action:
 
 ## 🚀 Live Demo
 - [Google Colab link](https://colab.research.google.com/drive/171nh_5z0hInLo6Nenitl5q_cSwv566Cj?usp=sharing)
