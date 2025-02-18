@@ -13,7 +13,7 @@ This problem is widely used in Artificial Intelligence to demonstrate search alg
 
 ## 🚀 Implementations
 This project presents **8 different AI-based solutions**:
-- **Breadth-First Search (BFS)** (`bfs.ipynb`)
+- **Breadth-First Search (BFS)** (`Algorithms/bfs.ipynb`)
 - **Depth-Limited Search (DLS)** (`dls.ipynb`)
 - **Iterative Deepening Search (IDS)** (`ids.ipynb`)
 - **Genetic Algorithm (GA)** (`genetic.ipynb`)
